@@ -1,0 +1,13 @@
+{
+  "service": "CRM",
+  "name": "Tech Assignment Map",
+  "version": "1.0",
+  "widgets": [
+    {
+      "name": "Tech Assignment Map",
+      "location": "crm.webtab",
+      "url": "/widget.html",
+      "module": "Technician_WO"
+    }
+  ]
+}
